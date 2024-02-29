@@ -1,4 +1,4 @@
-(ns mylib.mylib)
+(ns hkim0331.mylib)
 
 ;; (defn foo
 ;;   "I don't do a whole lot."
